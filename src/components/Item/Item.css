@@ -1,0 +1,22 @@
+
+.card{
+    
+    transition: all 0.5s ease;
+    border: 1.5px solid #00a14e50 !important;
+    border: none !important;
+}
+.card-body, .card-footer{
+    background:#242e5d !important;
+    color: #dbe1ed !important;
+    overflow: hidden;
+}
+.card:hover{
+    scale: 1.04 !important;
+    box-shadow: 0px 7px 15px -4px rgba(218, 23, 52, 0.847);
+}
+
+.card-img-products{
+    width: 310px;
+    height: 275px;
+    object-fit: contain;
+}

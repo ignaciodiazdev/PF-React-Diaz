@@ -1,0 +1,25 @@
+*{
+  
+  font-family: 'Poppins', sans-serif;
+}
+body{
+  background: #191919;
+  color: #fff;
+}
+::-webkit-scrollbar-corner {
+  background: transparent;
+}
+
+::-webkit-scrollbar {
+  width: 7px;
+  height: 10 px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #403d3cba;
+  border-radius: 50px;
+}
+h4{
+  font-size: 20px;
+  color: aqua !important;
+}
